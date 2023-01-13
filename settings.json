@@ -1,0 +1,101 @@
+{
+    "workbench.colorCustomizations": {
+    
+        //Set Overall Foreground used.
+        "foreground": "#FFFF",
+
+        //Title Bar.
+        "titleBar.activeBackground": "#FFA6C9",
+        "titleBar.inactiveBackground": "#FFA6C9",
+        "titleBar.activeForeground": "#111111",
+
+        //Status Bar
+        "statusBar.background": "#FFA6C9",
+        "statusBar.noFolderBackground": "#FFA6C9",
+        "statusBar.foreground": "#111111",
+
+        //Side Bar
+        "sideBar.background": "#1E1E1E",
+        "sideBarSectionHeader.foreground": "#FFFF",
+
+        //List
+        "list.hoverForeground": "#FFFF",
+
+        //Input
+        "input.background": "#1E1E1E",
+        "input.border": "#E327A1",
+        "inputOption.activeBackground": "#E327A1",
+
+        //Activity Bar
+        "activityBar.background": "#F5DADF",
+        "activityBar.foreground": "#E327A1",
+        "activityBar.inactiveForeground": "#111111",
+        "activityBarBadge.background": "#E327A1",
+
+        //Command Center
+        "commandCenter.background": "#FFA6C9",
+        "commandCenter.border": "#FFA6C9",
+
+        //Tabs
+        "tab.activeBackground": "#1E1E1E",
+        "tab.activeForeground": "#FFFF",
+        "tab.inactiveBackground": "#111111",
+        "tab.inactiveForeground": "#FFFF",
+        "tab.activeBorder": "#1E1E1E",
+        "tab.border": "#1E1E1E",
+        "tab.hoverBorder": "#FFFF",
+
+        //Editor Group
+        "editorGroupHeader.tabsBackground": "#111111",
+
+        //Scroll Bar
+        "scrollbarSlider.background": "#111111",
+        "scrollbarSlider.hoverBackground": "#111111",
+        "scrollbarSlider.activeBackground": "#111111",
+
+        //Line Numbers
+        "editorLineNumber.foreground": "#CEDAD4",
+
+        //Extentions drop down.
+        "extensionButton.prominentForeground": "#FFFF",
+        "extensionButton.prominentBackground": "#E327A1",
+
+        //Extension page.
+        "extensionButton.background": "#E327A1",
+        "extensionButton.hoverBackground": "#E327A1",
+        "extensionBadge.remoteBackground": "#E327A1",
+        "extensionIcon.starForeground": "#E327A1",
+        "extensionIcon.verifiedForeground": "#E327A1",
+        "extensionIcon.preReleaseForeground":"#E327A1", 
+        "extensionIcon.sponsorForeground": "#E327A1", 
+
+        //Notifications
+        "notificationCenterHeader.foreground": "#FFFF",
+        "notificationCenterHeader.background": "#111111",
+        "notifications.foreground": "#FFFF",
+        "notificationsErrorIcon.foreground": "#FF7900",
+        "notificationsWarningIcon.foreground": "#FF0000",
+        "notificationsInfoIcon.foreground":"#E327A1",
+
+        //Buttons
+        "button.background": "#E327A1",
+        "button.border": "#E327A1",
+        "button.hoverBackground": "#E327A1", 
+
+        //Links
+        "textLink.foreground": "#E327A1",
+        "textLink.activeForeground": "#E327A1",
+
+        //Drop Downs
+        "dropdown.border": "#E327A1",
+
+        //Badges
+        "badge.background": "#E327A1",
+        
+        //Settings
+        "settings.dropdownBorder":"#E327A1",
+        "settings.dropdownListBorder":"#E327A1",
+        "settings.focusedRowBorder":"#E327A1"
+
+    }
+}
